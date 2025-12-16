@@ -1,7 +1,9 @@
 👋 Merhaba, ben Arda Karakuş
 ---------------------------------------------------------------------------------
 ✈️ Uçak Mühendisliği & Yazılım Mühendisliği (2. Sınıf) öğrencisiyim.
+
 🤖 Otonom sistemler üzerine eğitim alıyorum.
+
 💻 Java ve C dillerinde yazılım geliştiriyorum.
 
 Teknoloji, algoritmalar ve mühendisliğin kesiştiği alanlarda kendimi geliştirmeyi seviyorum.
@@ -41,12 +43,13 @@ Otonom sistemler için yazılım temelleri
 Mühendislik problemlerine algoritmik yaklaşım
 
 Pyhton programlama dili
-
 -----------------------------------------------------------------------
 👋 Hi, I’m Arda Karakuş
 ----------------------------------------------------------------------------
 ✈️ 2nd-year student in Aeronautical Engineering & Software Engineering
+
 🤖 Currently receiving training in Autonomous Systems
+
 💻 Programmer with experience in Java and C
 
 I’m interested in combining software and engineering to develop intelligent and autonomous systems.
