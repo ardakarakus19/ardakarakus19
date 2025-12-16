@@ -40,6 +40,50 @@ Otonom sistemler için yazılım temelleri
 Mühendislik problemlerine algoritmik yaklaşım
 
 Pyhton programlama dili
+-----------------------------------------------------------------------
+👋 Hi, I’m Arda
+
+✈️ 2nd-year student in Aeronautical Engineering & Software Engineering
+🤖 Currently receiving training in Autonomous Systems
+💻 Programmer with experience in Java and C
+
+I’m interested in combining software and engineering to develop intelligent and autonomous systems.
+
+🚀 Areas of Interest
+
+Autonomous systems
+
+Embedded software
+
+Algorithms and data structures
+
+Flight systems and control
+
+Software development
+
+🛠️ Technologies & Skills
+
+Programming Languages:
+
+Java
+
+C
+
+Core Skills:
+
+Object-Oriented Programming (OOP)
+
+Algorithmic problem solving
+
+Fundamentals of embedded systems
+
+📚 Currently Learning
+
+Software foundations for autonomous systems
+
+Algorithm-based engineering solutions
+
+Project development with Java and C
 <!--
 **ardakarakus19/ardakarakus19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
