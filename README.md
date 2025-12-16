@@ -8,25 +8,37 @@ Teknoloji, algoritmalar ve mühendisliğin kesiştiği alanlarda kendimi gelişt
 
 🚀 İlgi Alanlarım
 Otonom sistemler
+
 Gömülü yazılım
+
 Algoritmalar ve veri yapıları
+
 Uçuş sistemleri ve kontrol
+
 Yazılım geliştirme
 
 🛠️ Kullandığım Teknolojiler
 
 Programlama Dilleri:
+
 Java
+
 C
 
 Temel Alanlar:
+
 Nesne Yönelimli Programlama (OOP)
+
 Algoritma & veri yapıları
+
 Temel gömülü sistem mantığı
 
 📚 Şu An Öğrendiklerim
+
 Otonom sistemler için yazılım temelleri
+
 Mühendislik problemlerine algoritmik yaklaşım
+
 Pyhton programlama dili
 <!--
 **ardakarakus19/ardakarakus19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
