@@ -1,5 +1,5 @@
-##👋 Merhaba, ben Arda
-
+👋 Merhaba, ben Arda
+---------------------------------------------------------------------------------
 ✈️ Uçak Mühendisliği & Yazılım Mühendisliği (2. Sınıf) öğrencisiyim.
 🤖 Otonom sistemler üzerine eğitim alıyorum.
 💻 Java ve C dillerinde yazılım geliştiriyorum.
@@ -7,7 +7,7 @@
 Teknoloji, algoritmalar ve mühendisliğin kesiştiği alanlarda kendimi geliştirmeyi seviyorum.
 
 🚀 İlgi Alanlarım
-
+------------------------------------------------------------------------------------
 Otonom sistemler
 
 Gömülü yazılım
@@ -19,7 +19,7 @@ Uçuş sistemleri ve kontrol
 Yazılım geliştirme
 
 🛠️ Kullandığım Teknolojiler
-
+-------------------------------------------------------------------------------
 Programlama Dilleri:
 
 Java
@@ -35,7 +35,7 @@ Algoritma & veri yapıları
 Temel gömülü sistem mantığı
 
 📚 Şu An Öğrendiklerim
-
+---------------------------------------------------------------------------
 Otonom sistemler için yazılım temelleri
 
 Mühendislik problemlerine algoritmik yaklaşım
@@ -44,7 +44,7 @@ Pyhton programlama dili
 
 -----------------------------------------------------------------------
 ##👋 Hi, I’m Arda
-
+----------------------------------------------------------------------------
 ✈️ 2nd-year student in Aeronautical Engineering & Software Engineering
 🤖 Currently receiving training in Autonomous Systems
 💻 Programmer with experience in Java and C
@@ -52,7 +52,7 @@ Pyhton programlama dili
 I’m interested in combining software and engineering to develop intelligent and autonomous systems.
 
 🚀 Areas of Interest
-
+----------------------------------------------------------------------------
 Autonomous systems
 
 Embedded software
@@ -64,7 +64,7 @@ Flight systems and control
 Software development
 
 🛠️ Technologies & Skills
-
+----------------------------------------------------------------------------
 Programming Languages:
 
 Java
@@ -80,7 +80,7 @@ Algorithmic problem solving
 Fundamentals of embedded systems
 
 📚 Currently Learning
-
+----------------------------------------------------------------------------
 Software foundations for autonomous systems
 
 Algorithm-based engineering solutions
