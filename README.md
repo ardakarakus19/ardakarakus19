@@ -7,6 +7,7 @@
 Teknoloji, algoritmalar ve mühendisliğin kesiştiği alanlarda kendimi geliştirmeyi seviyorum.
 
 🚀 İlgi Alanlarım
+
 Otonom sistemler
 
 Gömülü yazılım
