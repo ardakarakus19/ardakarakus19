@@ -1,4 +1,4 @@
-👋 Merhaba, ben Arda
+👋 Merhaba, ben Arda Karakuş
 ---------------------------------------------------------------------------------
 ✈️ Uçak Mühendisliği & Yazılım Mühendisliği (2. Sınıf) öğrencisiyim.
 🤖 Otonom sistemler üzerine eğitim alıyorum.
@@ -43,7 +43,7 @@ Mühendislik problemlerine algoritmik yaklaşım
 Pyhton programlama dili
 
 -----------------------------------------------------------------------
-👋 Hi, I’m Arda
+👋 Hi, I’m Arda Karakuş
 ----------------------------------------------------------------------------
 ✈️ 2nd-year student in Aeronautical Engineering & Software Engineering
 🤖 Currently receiving training in Autonomous Systems
