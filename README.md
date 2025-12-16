@@ -43,7 +43,7 @@ Mühendislik problemlerine algoritmik yaklaşım
 Pyhton programlama dili
 
 -----------------------------------------------------------------------
-##👋 Hi, I’m Arda
+👋 Hi, I’m Arda
 ----------------------------------------------------------------------------
 ✈️ 2nd-year student in Aeronautical Engineering & Software Engineering
 🤖 Currently receiving training in Autonomous Systems
